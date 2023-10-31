@@ -23,3 +23,5 @@
 ![1179E9E8022D5C4E14AFFA9D2F387A52](https://github.com/orbitoo/kumo/assets/86230731/fc5a3a9a-8729-40ac-bcf3-9fbe151b2153)
 出一二簡後動重如下，如能接受三簡則選重率會更低。
 ![A72E5A994E7E7832C8E155FF4CF1D61A](https://github.com/orbitoo/kumo/assets/86230731/2defbf5f-2b3b-42db-b515-e95c8278d501)
+
+「雲碼」本質爲作者自用碼，故存有大量私貨，如「竝」而非「並」，「敎」而非「教」，「卽」而非「即」，如無法接受，可自行修訂，亦可聯繫我單開一分支。
